@@ -1,2 +1,2 @@
 # detallitos
-Saisrema de Ventas Detallitos
+Sistema de Ventas Detallitos
